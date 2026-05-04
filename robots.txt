@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://pennsylvaniabankruptcy.org/sitemap.xml
